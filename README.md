@@ -1,2 +1,4 @@
 # business-card-nft
-`brownie run scripts/deploy.py`
+```
+brownie run scripts/deploy.py
+```
